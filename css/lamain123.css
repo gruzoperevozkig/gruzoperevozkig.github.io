@@ -166,8 +166,7 @@ ul#nav li.current a { color: #fff; }
 /* Hero Image */
 .hero-image {
    width: 90%;
-   margin-top:5%;
-margin-left:5%;
+   margin: 0 auto;
 }
 .hero-image img {
    vertical-align: bottom;
