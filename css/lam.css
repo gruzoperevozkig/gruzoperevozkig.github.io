@@ -351,6 +351,7 @@ ul.features li:nth-child(even) { }
 #screenshots {
    background: #14171a;
    padding-top: 44px;
+   margin-bottom: 128px;
 }
 
 /* Portfolio Content */
